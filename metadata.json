@@ -1,0 +1,5 @@
+{
+  "name": "ScholarRead PDF Analyzer",
+  "description": "A three-column research dashboard for viewing, analyzing, and annotating academic documents.",
+  "requestFramePermissions": []
+}
